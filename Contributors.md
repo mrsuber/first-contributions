@@ -22,6 +22,7 @@
 - [Alka Das](https://github.com/AlkaDas991)
 - Dvir Berlo
 - Sejal Khedekar
+- Mohamad Siysinyuy Banbong
 - Erika Lee
 - Alex English
 - [Manzi Eric](https://github.com/manziEric)
